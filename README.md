@@ -1,163 +1,230 @@
-👋 Hi, I'm Emmanuel Isidahomhen
-Data Analyst | Business Intelligence Analyst | Aspiring Data Engineer
+<div align="center">
 
-I'm a data professional passionate about transforming raw data into actionable insights that drive business growth and improve customer experiences. I currently work within the telecom and fintech ecosystem, analyzing high-volume transactional data, user behavior, product performance, and digital platform metrics.
+# 👋 Hi, I'm Emmanuel Isidahomhen
 
-My expertise spans SQL, Power BI, Python, and data analytics, with a growing focus on data engineering, cloud technologies, and scalable data pipelines.
+### 📊 Data Analyst | 📈 Business Intelligence Analyst | ⚙️ Aspiring Data Engineer
 
-🚀 About Me
-📊 Data Analyst specializing in telecom and fintech analytics
-📈 Experienced in transaction monitoring, KPI reporting, and business intelligence
-💳 Worked with digital products including mobile money and digital self-service platforms
-🐍 Skilled in Python for data analysis and automation
-🗄️ Advanced SQL practitioner with experience analyzing millions of transactions
-📉 Dashboard developer using Power BI
-⚙️ Learning Data Engineering and modern data architectures
-🌍 Based in Lagos
-🎯 Career Goal: Become a world-class Data Engineer focused on building scalable data platforms
-🛠️ Tech Stack
-Data Analysis
+Transforming data into insights, insights into decisions, and decisions into business impact.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Professional;SQL+%7C+Python+%7C+Power+BI;Fintech+%26+Telecom+Analytics;Future+Data+Engineer" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Data Analyst and Business Intelligence professional passionate about solving business problems with data.
+
+Currently working within the **Telecom and Fintech industry**, where I analyze high-volume transactional data, monitor digital product performance, and build dashboards that help stakeholders make informed decisions.
+
+My goal is to evolve into a **world-class Data Engineer**, building scalable data pipelines and modern data platforms that power data-driven organizations.
+
+### 🎯 Current Focus
+
+- 📊 Transaction Analytics
+- 📈 Business Intelligence & Reporting
+- 💳 Fintech Product Analytics
+- 📱 Digital Platform Analytics
+- ⚙️ Data Engineering
+- 🏗️ Data Warehousing
+- ☁️ Cloud Technologies
+
+---
+
+## 💼 What I Do
+
+```text
+Raw Data
+    ↓
+SQL Analysis
+    ↓
+Business Insights
+    ↓
+Interactive Dashboards
+    ↓
+Better Decisions
+    ↓
+Business Growth 🚀
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Analytics
+
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Professional Highlights
+
+✅ Analyze millions of digital transactions to identify trends and business opportunities
+
+✅ Build dashboards that support data-driven decision-making
+
+✅ Develop SQL solutions for transaction monitoring and reporting
+
+✅ Transform raw datasets into actionable business insights
+
+✅ Monitor product performance and customer behavior across digital platforms
+
+✅ Support operational excellence through analytics and automation
+
+---
+
+## 📂 Featured Projects
+
+### 💰 Digital Transaction Analytics
+
+Analyzed high-volume fintech transactions to monitor:
+
+- Transaction success rates
+- Failure trends
+- User behavior
+- Product adoption
+- Service performance
+
+**Tech Used**
+
+```yaml
 SQL
+Power BI
 Python
-Pandas
-NumPy
+```
+
+---
+
+### 📦 Supply Chain Analytics
+
+Comprehensive SQL-based supply chain analysis covering:
+
+- Inventory performance
+- Supplier efficiency
+- Delivery tracking
+- Order analysis
+- Business KPI monitoring
+
+**Tech Used**
+
+```yaml
+SQL
+Power BI
 Excel
-Power BI
-Databases
-MySQL
-PostgreSQL
-Oracle SQL
-Huawei DWS
-Data Visualization
-Power BI
-Excel Dashboards
-Data Engineering (Learning Path)
-Python ETL Development
-Data Warehousing
-Apache Spark
-Airflow
-Cloud Data Platforms
-Data Pipeline Design
-Tools
-Git
-GitHub
-Linux
-Notepad++
-VS Code
-📂 Featured Projects
-📦 Supply Chain Analytics Project
+```
 
-Performed end-to-end analysis of supply chain operations using SQL.
+---
 
-Key Highlights
+### 📱 Mobile App Marketing Analytics
 
-Inventory analysis
-Supplier performance tracking
-Delivery performance monitoring
-Order trend analysis
-Business KPI reporting
+Analyzed customer engagement and campaign performance through:
 
-Tools
+- User acquisition analysis
+- Retention metrics
+- Customer segmentation
+- Marketing ROI measurement
+- Dashboard reporting
 
-SQL
-Power BI
-📱 Mobile App Marketing Analytics
+**Tech Used**
 
-Analyzed user acquisition, engagement, retention, and campaign performance metrics.
-
-Key Highlights
-
-Customer behavior analysis
-Campaign ROI measurement
-User segmentation
-Marketing dashboard creation
-
-Tools
-
-SQL
+```yaml
 Python
-Power BI
-💰 Digital Transaction Analytics
-
-Analyzed large-scale fintech transaction data to monitor performance and customer behavior.
-
-Key Highlights
-
-Transaction success rate monitoring
-User activity analysis
-Failure trend detection
-Product adoption tracking
-KPI dashboard development
-
-Tools
-
 SQL
 Power BI
-Python
-📊 Business Intelligence Dashboards
+```
 
-Developed interactive dashboards that provide stakeholders with real-time business insights.
+---
 
-Features
+## 🌱 Currently Learning
 
-Executive KPI dashboards
-Operational monitoring dashboards
-Customer analytics dashboards
-Performance tracking reports
-📈 What I'm Currently Learning
-Data Engineering Fundamentals
-Data Pipeline Development
-Apache Spark
-Airflow
-Cloud Data Platforms
-Advanced Python
-Big Data Technologies
-Modern Data Warehousing
-📚 Areas of Interest
-Data Analytics
-Business Intelligence
-Fintech Analytics
-Product Analytics
-Customer Behavior Analysis
-Data Engineering
-Data Warehousing
-Big Data
-Machine Learning
-🏆 Professional Focus
+As part of my journey toward becoming a Data Engineer:
 
-I enjoy solving business problems using data and helping organizations make better decisions through analytics. My work focuses on:
+- Apache Spark
+- Apache Airflow
+- Data Pipeline Design
+- ETL Development
+- Data Warehousing
+- Cloud Data Platforms
+- Advanced Python
+- Big Data Processing
 
-Identifying business opportunities through data
-Monitoring product performance
-Understanding customer behavior
-Improving operational efficiency
-Building scalable reporting solutions
-Automating repetitive analytical processes
-📫 Connect With Me
-GitHub: (Add your GitHub URL)
-LinkedIn: (Add your LinkedIn URL)
-Email: (Add your professional email)
-💡 Favorite Quote
+---
 
-"Without data, you're just another person with an opinion." — W. Edwards Deming
+## 📈 GitHub Goals for 2026
 
-⭐ If you find any of my projects useful, feel free to star the repository and connect with me. I'm always open to collaborating on data analytics, business intelligence, and data engineering projects.
+- 🚀 Publish more end-to-end analytics projects
+- 🚀 Build production-ready ETL pipelines
+- 🚀 Contribute to open-source projects
+- 🚀 Share data engineering learning projects
+- 🚀 Grow as a Data Engineer
 
-GitHub Profile Tags
+---
 
-Data Analyst Business Intelligence SQL Python Power BI Fintech Telecom Analytics Data Engineering ETL Analytics Dashboarding Business Intelligence Developer Data Visualization Data Warehousing Big Data Cloud Data## Hi there 👋
+## 📚 Areas of Interest
 
-<!--
-**emmanuel-isidz/emmanuel-isidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Domain | Interest Level |
+|----------|----------|
+| Data Analytics | ⭐⭐⭐⭐⭐ |
+| Business Intelligence | ⭐⭐⭐⭐⭐ |
+| Fintech Analytics | ⭐⭐⭐⭐⭐ |
+| Data Engineering | ⭐⭐⭐⭐⭐ |
+| Product Analytics | ⭐⭐⭐⭐ |
+| Cloud Computing | ⭐⭐⭐⭐ |
+| Machine Learning | ⭐⭐⭐ |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Philosophy
+
+> Data tells a story.
+>
+> My job is to find that story, understand it, and turn it into decisions that create value.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 📊 Turning Data Into Business Value
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
+
+</div>
