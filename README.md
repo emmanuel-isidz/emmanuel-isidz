@@ -132,7 +132,7 @@ Excel
 
 ---
 
-### 📱 Mobile App Marketing Analytics
+### 📱 Marketing Analytics
 
 Analyzed customer engagement and campaign performance through:
 
@@ -145,7 +145,6 @@ Analyzed customer engagement and campaign performance through:
 **Tech Used**
 
 ```yaml
-Python
 SQL
 Power BI
 ```
@@ -203,11 +202,11 @@ As part of my journey toward becoming a Data Engineer:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/emmanuel-isidahomhen">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:emmanuelisidahomhen130@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
