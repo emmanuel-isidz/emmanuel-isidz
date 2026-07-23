@@ -202,7 +202,7 @@ As part of my journey toward becoming a Data Engineer:
 
 <p align="center">
 
-<a href="www.linkedin.com/in/emmanuel-isidahomhen">
+<a href="https://www.linkedin.com/in/emmanuel-isidahomhen/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -210,7 +210,7 @@ As part of my journey toward becoming a Data Engineer:
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="untitled-t4oc05y.gamma.site">
+<a href="https://untitled-t4oc05y.gamma.site/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
 </a>
 
